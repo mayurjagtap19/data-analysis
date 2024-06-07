@@ -1,7 +1,5 @@
 # Zomato SQL Data Analysis Project
 
-About Project
-
 Project Overview
 
 The goal of this project is to solve various data analysis questions using SQL queries. You will be provided with a dataset comprising four tables that contain information similar to what you would expect from a food delivery service like Zomato. This project aims to help you understand how to work with SQL to extract insights from data.
