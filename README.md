@@ -1,6 +1,4 @@
-# data-analysis
-
-Zomato SQL Data Analysis Project
+# Zomato SQL Data Analysis Project
 
 About Project
 
