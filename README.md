@@ -2,7 +2,7 @@
 
 Project Overview
 
-The goal of this project is to solve various data analysis questions using SQL queries. The dataset comprises four tables with information similar to what you would expect from a food delivery service like Zomato. This project aims to enhance my understanding of how to use SQL to extract insights from data.
+The goal of this project is to solve various data analysis questions using SQL queries. The dataset comprises four tables with information similar to that of a food delivery service like Zomato. This project has enhanced my understanding of how to use SQL to extract insights from data.
 
 Dataset Description
 
